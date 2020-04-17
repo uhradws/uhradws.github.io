@@ -39,11 +39,10 @@ html, body, #wrap {
     height: 100%;
 }
 
-#wrap {
+.wrap {
     position: relative;
 }
-
-#svg-bg {
+.svg-bg {
     position: absolute;
     width: 100%;
     height: 100%;
