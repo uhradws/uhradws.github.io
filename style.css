@@ -23,6 +23,6 @@ p.uk, p.us {
   position: absolute;
   content: "\01F984";
   right : 20px;
-  bottom : 18px;
+  top : 18px;
   font-size: 1.3em;
 }
