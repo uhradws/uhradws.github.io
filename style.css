@@ -44,7 +44,7 @@ p.uk, p.us, p.toge {
   top : 0.5px;
 }
 
-html, body, #wrap {
+html, body, .wrap {
     height: 100%;
 }
 
