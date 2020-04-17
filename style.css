@@ -21,7 +21,7 @@ p.uk, p.us {
 
 .us:after {
   position: absolute;
-  content: "\01F1F8";
+  content: "\01F1FA\01F1F8";
   right : 5px;
   top : 0.5px;
 }
