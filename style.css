@@ -39,7 +39,7 @@ p.uk, p.us, p.toge {
 
 .toge:after {
   position: absolute;
-  content: "\01f1ec\01f1e7""\01F1FA\01F1F8";
+  content: "\01F1FA\01F1F8""\01f1ec\01f1e7";
   right : 5px;
   top : 0.5px;
 }
