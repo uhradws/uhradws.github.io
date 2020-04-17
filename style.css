@@ -21,14 +21,14 @@ p.uk, p.us {
 
 .us:after {
   position: absolute;
-  content: "\01F1FA";
+  content: "\0";
   right : 5px;
   top : 0.5px;
 }
 
 .uk:after {
   position: absolute;
-  content: "\01F1E7";
+  content: "\0";
   right : 5px;
   top : 0.5px;
 }
