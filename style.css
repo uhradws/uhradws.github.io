@@ -26,3 +26,11 @@ p.uk, p.us {
   top : 18px;
   font-size: 1.3em;
 }
+
+.us:after {
+  position: absolute;
+  content: "\01F40B";
+  right : 20px;
+  top : 18px;
+  font-size: 1.3em;
+}
