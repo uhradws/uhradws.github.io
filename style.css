@@ -23,7 +23,7 @@ p.uk, p.us {
   position: absolute;
   content: "\01F984";
   right : 20px;
-  top : 18px;
+  top : 5px;
   font-size: 1.3em;
 }
 
@@ -31,6 +31,6 @@ p.uk, p.us {
   position: absolute;
   content: "\01F40B";
   right : 20px;
-  top : 18px;
+  top : 5px;
   font-size: 1.3em;
 }
