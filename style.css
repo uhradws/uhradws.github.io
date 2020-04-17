@@ -21,7 +21,7 @@ p.uk, p.us {
 
 .uk:after {
   position: absolute;
-  content: "";
+  content: "/01F984";
   right : 20px;
   bottom : 18px;
   font-size: 1.3em;
