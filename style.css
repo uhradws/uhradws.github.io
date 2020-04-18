@@ -56,10 +56,10 @@ p.toge:after {
   z-index: -1;
 }
 
-h2.top {
+.top > h2 {
   color: #f3fffc;
 }
 
-span.top {
-  color: #ffffc0;
+.top > span{
+  color: #F5DD6F;
 }
