@@ -23,21 +23,21 @@ p.uk, p.us, p.toge {
   background-size: 8px 100%,100% 2em; line-height: 2; font-weight: normal;
 }
 
-.us:after {
+p.us:after {
   position: absolute;
   content: "\01F1FA\01F1F8";
   right : 5px;
   top : 0.5px;
 }
 
-.uk:after {
+p.uk:after {
   position: absolute;
   content: "\01f1ec\01f1e7";
   right : 5px;
   top : 0.5px;
 }
 
-.toge:after {
+p.toge:after {
   position: absolute;
   content: "\01F1FA\01F1F8""\01f1ec\01f1e7";
   right : 5px;
