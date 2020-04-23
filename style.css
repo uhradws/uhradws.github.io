@@ -12,7 +12,7 @@
   color: #8f6552;
 }
 
-p.uk, p.us, p.toge {
+p.uk, div.us, p.toge {
   position: relative;
   margin: 1em 0 1em 0;
   background: #fff6e6;
