@@ -12,7 +12,7 @@
   color: #8f6552;
 }
 
-div.uk, div.us, p.toge {
+div.uk, div.us, div.toge {
   position: relative;
   margin: 1em 0 1em 0;
   background: #fff6e6;
@@ -37,7 +37,7 @@ div.uk:after {
   top : 0.5px;
 }
 
-p.toge:after {
+div.toge:after {
   position: absolute;
   content: "\01F1FA\01F1F8""\01f1ec\01f1e7";
   right : 5px;
