@@ -23,7 +23,7 @@ p.uk, div.us, p.toge {
   background-size: 8px 100%,100% 2em; line-height: 2; font-weight: normal;
 }
 
-p.us:after {
+div.us:after {
   position: absolute;
   content: "\01F1FA\01F1F8";
   right : 5px;
