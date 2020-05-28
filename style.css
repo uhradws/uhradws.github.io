@@ -13,7 +13,8 @@
 }
 
 p {
-  line-height: 1;
+  margin: 0em 0 0em 0;
+  line-height: 2;
   font-weight: normal;
 }
 
