@@ -12,6 +12,11 @@
   color: #8f6552;
 }
 
+p {
+  position: relative;
+  margin: 1em 0 1em 0;
+}
+
 div.uk, div.us, div.toge {
   position: relative;
   margin: 1em 0 1em 0;
