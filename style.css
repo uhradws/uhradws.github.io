@@ -1,9 +1,5 @@
 @charset "utf-8";
 
-#top {
-   text-align: center;
-}
-
 .uk {
   color: #00ac9a;
 }
@@ -69,6 +65,9 @@ div.toge:after {
   z-index: -1;
 }
 
-#top > h2 {
+#top {
+   text-align: center;
+}
+#top h2 {
   color: #f3fffc;
 }
