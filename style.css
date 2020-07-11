@@ -29,6 +29,7 @@ div.uk, div.us, div.toge {
   background-size: 8px 100%,100% 2em;
   line-height: 2;
   font-weight: normal;
+  display:inline;
 }
 
 div.us:after {
