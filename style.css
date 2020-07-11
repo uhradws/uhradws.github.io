@@ -65,6 +65,11 @@ div.toge:after {
   z-index: -1;
 }
 
+#top_pc {
+  background-image:url(https://uhradws.github.io/top_pc.svg);
+  background-size:100%;
+}
+
 #top {
    text-align: center;
 }
