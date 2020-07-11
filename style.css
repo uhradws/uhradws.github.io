@@ -65,7 +65,7 @@ div.toge:after {
   z-index: -1;
 }
 
-#top_pc {
+#top_bg {
   background-image:url(https://uhradws.github.io/top_pc.svg);
   background-size:100%;
 }
