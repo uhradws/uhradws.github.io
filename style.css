@@ -69,6 +69,6 @@ div.toge:after {
   z-index: -1;
 }
 
-.top > h2 {
+#top > h2 {
   color: #f3fffc;
 }
