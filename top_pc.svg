@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
-<path d="M 0 60 q 60 60 120 0 q 60 -60 120 0 q 60 60 120 0 q 60 -60 120 0 q 60 60 120 0" stroke="#A4E49C" fill="transparent" stroke-width="2" opacity="0.5" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500">
+<path d="M 0 60 q 60 60 120 0 q 60 -60 120 0 q 60 60 120 0 q 60 -60 120 0 q 60 60 120 0 L 0 10000 l -1000 0" stroke="#A4E49C" fill="transparent" stroke-width="2" opacity="0.5" />
 </svg>
