@@ -70,6 +70,16 @@ div.toge:after {
   background-size:100%;
 }
 
+#top_top_bg {
+  background-image:url(https://uhradws.github.io/img_top.png);
+  background-size:contain;
+}
+
+#top_btm_bg {
+  background-image:url(https://uhradws.github.io/img_btm.svg);
+  background-size:100%;
+}
+
 #top {
    text-align: center;
 }
