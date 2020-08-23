@@ -79,7 +79,7 @@ div.toge:after {
 @media only screen and (max-width: 480px) {
   #top_top_bg {
     background-image: url(https://uhradws.github.io/img-top.png);
-    background-size: 170% 150%;
+    background-size: 170% auto;
   }
 }
 
