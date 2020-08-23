@@ -102,7 +102,7 @@ div.toge:after {
 /* スマホで見た時 */ 
 @media only screen and (max-width: 600px) {
   #top h2 {
-    padding-top: 20px;
+    padding-top: 30px;
   }
 }
 
