@@ -92,6 +92,7 @@ div.toge:after {
 
 /* 表紙の書式 */
 #top {
+   padding-top: 5px;
    text-align: center;
 }
 #top h2 {
@@ -102,9 +103,7 @@ div.toge:after {
 /* スマホで見た時 */ 
 @media only screen and (max-width: 480px) {
   #top h2 {
-    margin: 0px;
     padding-top: 20px;
-    color: #f3fffc;
   }
 }
 
