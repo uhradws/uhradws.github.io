@@ -71,8 +71,8 @@ div.toge:after {
 }
 
 #top_top_bg {
-  background-image:url(https://uhradws.github.io/img_top.png);
-  background-size:contain;
+  background-image: url(https://uhradws.github.io/img_top.png);
+  background-size:100%;
 }
 
 #top_btm_bg {
