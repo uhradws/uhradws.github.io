@@ -65,11 +65,7 @@ div.toge:after {
   z-index: -1;
 }
 
-#top_bg {
-  background-image:url(https://uhradws.github.io/top_bg.svg);
-  background-size:100%;
-}
-
+/* 波の背景 */
 #top_top_bg {
   background-image: url(https://uhradws.github.io/img-top.png);
   background-size: 100%;
@@ -88,10 +84,20 @@ div.toge:after {
   background-size:100%;
 }
 
+/*
+#top_bg {
+  background-image:url(https://uhradws.github.io/top_bg.svg);
+  background-size:100%;
+}
+*/
+
+/* 表紙の書式 */
 #top {
    text-align: center;
 }
 #top h2 {
+  margin: 0px;
+  padding-top: 20px;
   color: #f3fffc;
 }
 
