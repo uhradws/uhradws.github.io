@@ -75,6 +75,14 @@ div.toge:after {
   background-size:100% auto;
 }
 
+/* スマホで見た時 */ 
+@media only screen and (max-width: 480px) {
+  #top_top_bg {
+    background-image: url(https://uhradws.github.io/img-top.png);
+    background-size: 150% auto;
+  }
+}
+
 #top_btm_bg {
   background-image:url(https://uhradws.github.io/img-btm.png);
   background-size:100%;
