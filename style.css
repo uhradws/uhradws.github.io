@@ -73,7 +73,6 @@ div.toge:after {
 /* スマホで見た時 */ 
 @media only screen and (max-width: 480px) {
   #top_top_bg {
-    background-image: url(https://uhradws.github.io/img-top.png);
     background-size: 170%;
   }
 }
@@ -92,7 +91,7 @@ div.toge:after {
 
 /* 表紙の書式 */
 #top {
-   padding-top: 5px;
+   padding-top: 10px;
    text-align: center;
 }
 #top h2 {
