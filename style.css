@@ -72,7 +72,7 @@ div.toge:after {
 
 #top_top_bg {
   background-image: url(https://uhradws.github.io/img-top.png);
-  background-size:contain;
+  background-size:100% auto;
 }
 
 #top_btm_bg {
