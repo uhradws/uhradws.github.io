@@ -71,12 +71,12 @@ div.toge:after {
 }
 
 #top_top_bg {
-  background-image: url(https://uhradws.github.io/img_top.png);
-  background-size:100%;
+  background-image: url(https://uhradws.github.io/img-top.png);
+  background-size:contain;
 }
 
 #top_btm_bg {
-  background-image:url(https://uhradws.github.io/img_btm.png);
+  background-image:url(https://uhradws.github.io/img-btm.png);
   background-size:100%;
 }
 
