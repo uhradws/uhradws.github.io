@@ -70,7 +70,6 @@ div.toge:after {
   background-image: url(https://uhradws.github.io/img-top.png);
   background-size: 100%;
 }
-
 /* スマホで見た時 */ 
 @media only screen and (max-width: 480px) {
   #top_top_bg {
@@ -97,8 +96,16 @@ div.toge:after {
 }
 #top h2 {
   margin: 0px;
-  padding-top: 20px;
+  padding-top: 50px;
   color: #f3fffc;
+}
+/* スマホで見た時 */ 
+@media only screen and (max-width: 480px) {
+  #top h2 {
+    margin: 0px;
+    padding-top: 20px;
+    color: #f3fffc;
+  }
 }
 
 /* >>3 とか押したら開くやつ */
